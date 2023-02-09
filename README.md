@@ -1,5 +1,5 @@
 # Neural-Network-from-scratch
-Neural Network on C++ using only standard libraries.
+Implementation of linear neural network on C++ using only standard libraries.
 
 File [network.h](nn/network.h) implements basic instruments for neural networks, like arrays, layers, network, backpropagation with gradient descent etc.
 
